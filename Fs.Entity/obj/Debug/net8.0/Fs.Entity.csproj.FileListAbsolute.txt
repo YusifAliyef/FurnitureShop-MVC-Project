@@ -1,0 +1,11 @@
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\bin\Debug\net8.0\Fs.Entity.deps.json
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\bin\Debug\net8.0\Fs.Entity.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\bin\Debug\net8.0\Fs.Entity.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\refint\Fs.Entity.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\ref\Fs.Entity.dll

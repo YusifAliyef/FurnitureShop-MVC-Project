@@ -1,0 +1,17 @@
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.DataAccessLayer.deps.json
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.DataAccessLayer.runtimeconfig.json
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.DataAccessLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.DataAccessLayer.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.Entity.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\bin\Debug\net8.0\Fs.Entity.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataA.3C5E80B7.Up2Date
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\refint\Fs.DataAccessLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.genruntimeconfig.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\ref\Fs.DataAccessLayer.dll

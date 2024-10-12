@@ -1,0 +1,12 @@
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\bin\Debug\net8.0\FS.CoreLayer.deps.json
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\bin\Debug\net8.0\FS.CoreLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\bin\Debug\net8.0\FS.CoreLayer.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\refint\FS.CoreLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\ref\FS.CoreLayer.dll

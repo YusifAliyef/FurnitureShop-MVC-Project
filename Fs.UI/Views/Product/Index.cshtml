@@ -1,0 +1,153 @@
+﻿@model AddProductDto
+@{
+    ViewData["Title"] = "Index";
+}
+<head>
+    <meta charset="utf-8" />
+    <title>Register | Minia - Minimal Admin & Dashboard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="Themesbrand" name="author" />
+    <!-- Bootstrap Css -->
+    <link href="~/AdminTemplate/css/bootstrap.min.css" id="bootstrap-style" rel="stylesheet" type="text/css" />
+    <!-- Icons Css -->
+    <link href="~/AdminTemplate/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <!-- App Css-->
+    <link href="~/AdminTemplate/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+</head>
+
+<div class="container my-4 justify-content-center mt-3">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <div class="d-flex justify-content-between align-items-center justify-content-center mt-5">
+                <h5 class="mb-0 text-white">Product List</h5>
+                <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#productFormModal">
+                    <i class="fa fa-plus"></i> Add New Product
+                </button>
+            </div>
+        </div>
+
+        <div class="card-body">
+            <table class="table table-striped table-hover" id="product-datatable">
+                <thead class="table">
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Category</th>
+                        <th>In Stock</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Dynamically populated rows -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="productFormModal" tabindex="-1" aria-labelledby="productModal" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header bg-secondary text-white">
+                <h5 class="modal-title" id="productModal">Product Form</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <form action="/" method="post" class="row" id="addProductForm" enctype="multipart/form-data">
+                    <div class="col-md-6">
+                        <label for="productName" class="form-label">Product Name</label>
+                        <input class="form-control" type="text" id="productName" asp-for="ProductName" placeholder="Enter product name">
+                        <span class="text-danger" asp-validation-for="ProductName"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label for="price" class="form-label">Price</label>
+                        <input class="form-control" type="number" value="0" id="price" asp-for="Price" placeholder="Enter product price">
+                        <span class="text-danger" asp-validation-for="Price"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label for="categoryId" class="form-label">Categories</label>
+                        <select class="form-select" id="categoryId" asp-for="CategoryId" asp-items='(SelectList)TempData["Categories"]'>
+                            <option selected>Select Category</option>
+                        </select>
+                        <span class="text-danger" asp-validation-for="CategoryId"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="inStock" class="form-label">In Stock</label>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" asp-for="InStock" id="inStock">
+                            <span class="form-check-label" asp-validation-for="InStock">Available in stock</span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label for="imageFiles" class="form-label">Product Image</label>
+                        <input class="form-control" type="file" id="imageFiles" name="imageFiles" multiple>
+                    </div>
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="submitButton">Save changes</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JAVASCRIPT -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/AdminTemplate/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/AdminTemplate/libs/metismenu/metisMenu.min.js"></script>
+<script src="~/AdminTemplate/libs/simplebar/simplebar.min.js"></script>
+<script src="~/AdminTemplate/libs/node-waves/waves.min.js"></script>
+<script src="~/AdminTemplate/libs/feather-icons/feather.min.js"></script>
+<script src="~/AdminTemplate/libs/pace-js/pace.min.js"></script>
+@section scripts {
+    <script>
+        $("#submitButton").click(function () {
+            var formData = new FormData();
+            formData.append("ProductName", $("#productName").val());
+            formData.append("Price", $("#price").val());
+            formData.append("CategoryId", $("#categoryId").val());
+
+            // Get checkbox value correctly (true/false)
+            var inStockValue = $("#inStock").is(":checked") ? true : false;
+            formData.append("InStock", inStockValue);
+
+            // Get image files
+            var files = $("#imageFiles")[0].files;
+            for (var i = 0; i < files.length; i++) {
+                formData.append("imagesFile", files[i]);
+            }
+
+            $.ajax({
+                url: '/Product/AddProduct', // Correct the URL to the actual action method
+                type: 'POST',
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function (response) {
+                    if (response.success) {
+                        $("#productFormModal").modal('hide');
+                        // Optionally, refresh the product list or show a success message
+                    } else {
+                        $("span.text-danger").text("");
+                        $.each(response.errors, function (key, messages) {
+                            var field = $("[asp-for='" + key + "']");
+                            field.next(".text-danger").text(messages[0]);
+                        });
+                    }
+                }
+            });
+        });
+    </script>
+
+ }

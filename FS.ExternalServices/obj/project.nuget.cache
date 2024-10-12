@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMOi9+1afepL75a6ytdd4jBI7rwNsdGzcgiLEgqJEjecCmQzQlqfDKOrBhjuRlFBRyWtNYf4bJeelh54bRfpZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\FS.ExternalServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenova\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lenova\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\lenova\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

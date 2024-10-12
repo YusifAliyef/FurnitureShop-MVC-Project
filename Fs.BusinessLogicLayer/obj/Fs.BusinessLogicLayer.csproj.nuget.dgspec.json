@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj",
+        "projectName": "Fs.BusinessLogicLayer",
+        "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj": {
+                "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj"
+              },
+              "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj": {
+                "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj",
+        "projectName": "FS.CoreLayer",
+        "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj",
+        "projectName": "Fs.DataAccessLayer",
+        "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj": {
+                "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj",
+        "projectName": "Fs.Entity",
+        "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Fs.Entity.csproj",
+        "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

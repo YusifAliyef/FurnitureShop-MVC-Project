@@ -1,0 +1,12 @@
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\bin\Debug\net8.0\FS.ExternalServices.deps.json
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\bin\Debug\net8.0\FS.ExternalServices.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\bin\Debug\net8.0\FS.ExternalServices.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\refint\FS.ExternalServices.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.pdb
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\ref\FS.ExternalServices.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.ExternalServices\obj\Debug\net8.0\FS.ExternalServices.csproj.AssemblyReference.cache
