@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.dataaccesslayer\\entityframeworkcore\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|solutionrelative:fs.dataaccesslayer\\entityframeworkcore\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.dataaccesslayer\\entityframeworkcore\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|solutionrelative:fs.dataaccesslayer\\entityframeworkcore\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\mappers\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +71,8 @@
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\uploadedfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.businesslogiclayer\\validationrules\\addproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\validationrules\\addproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\validationrules\\addproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\concrete\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\concrete\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,11 +87,7 @@
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.businesslogiclayer\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\concrete\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{BB8E599D-00C8-4D3B-B8BE-E5D160C73859}|FS.ExternalServices\\FS.ExternalServices.csproj|solutionrelative:fs.externalservices\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.dataaccesslayer\\entityframeworkcore\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|solutionrelative:fs.dataaccesslayer\\entityframeworkcore\\concrete\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.dataaccesslayer\\entityframeworkcore\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C349B4D8-FBF0-4E4C-A4B2-743309190D0B}|Fs.DataAccessLayer\\Fs.DataAccessLayer.csproj|solutionrelative:fs.dataaccesslayer\\entityframeworkcore\\abstract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -151,10 +179,6 @@
       "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\extentions\\validationextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\classes\\responsevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\validationrules\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\validationrules\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -163,28 +187,8 @@
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\ibusinessregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\implementations\\responsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\implementations\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.businesslogiclayer\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610C9A69-7557-4B61-9AEA-F458A177C741}|Fs.BusinessLogicLayer\\Fs.BusinessLogicLayer.csproj|solutionrelative:fs.businesslogiclayer\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\interfaces\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\wrappers\\interfaces\\iresponsedataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.corelayer\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2056689C-46FA-4C0B-8ADB-2CB7C04B4A32}|FS.CoreLayer\\FS.CoreLayer.csproj|solutionrelative:fs.corelayer\\enums\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDBCC349-1F3C-4068-9796-E34266C7B647}|Fs.Entity\\Fs.Entity.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.entity\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -386,7 +390,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -395,480 +399,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T08:15:28.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UploadedFileDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:50:15.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MapProfile.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:22:00.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Fs.UI\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Fs.UI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAADwv3gAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T08:08:43.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:29:55.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:24:23.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Fs.UI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Fs.UI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAgwE0AAAAsAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T15:22:20.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:35:08.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Fs.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:13:35.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:44:00.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Fs.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
-              "RelativeToolTip": "Fs.UI\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:22:33.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:12:55.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:03:51.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "Fs.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\appsettings.json",
-              "RelativeToolTip": "Fs.UI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-21T19:14:28.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Fs.UI\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Fs.UI\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T08:35:45.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterStatusEnam.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:33:09.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RegisterStatus.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\RegisterStatus.cs",
-              "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\RegisterStatus.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\RegisterStatus.cs",
-              "RelativeToolTip": "Fs.Entity\\Accounts\\RegisterStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:57:29.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:43:32.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "FS.ExternalServices\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Services\\EmailService.cs",
-              "RelativeToolTip": "FS.ExternalServices\\Services\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:05:27.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SmtpSetting.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Models\\SmtpSetting.cs",
-              "RelativeDocumentMoniker": "FS.ExternalServices\\Models\\SmtpSetting.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Models\\SmtpSetting.cs",
-              "RelativeToolTip": "FS.ExternalServices\\Models\\SmtpSetting.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:06:33.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Interfaces\\IEmailService.cs",
-              "RelativeDocumentMoniker": "FS.ExternalServices\\Interfaces\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Interfaces\\IEmailService.cs",
-              "RelativeToolTip": "FS.ExternalServices\\Interfaces\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:04:10.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
-              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAC0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:28:52.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Fs.UI\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:55:10.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T14:51:57.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
-              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAACJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:20:08.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FS.ExternalServices",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\FS.ExternalServices.csproj",
-              "RelativeDocumentMoniker": "FS.ExternalServices\\FS.ExternalServices.csproj",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\FS.ExternalServices.csproj",
-              "RelativeToolTip": "FS.ExternalServices\\FS.ExternalServices.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-08T08:02:20.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "HtmlTemplateGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:38:57.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Fs.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Fs.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T08:33:22.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Fs.UI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Fs.UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-05T08:26:38.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductViewDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:30:22.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FsContext.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
-              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
-              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:09:49.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Fs.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:36:22.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:45:19.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HasHelper.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HasHelper.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\HasHelper.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HasHelper.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Helper\\HasHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:05:22.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ConvertExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:11:43.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GeneratorHelper.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\GeneratorHelper.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\GeneratorHelper.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\GeneratorHelper.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Helper\\GeneratorHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:21:04.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ValidationExtention.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ValidationExtention.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Extentions\\ValidationExtention.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ValidationExtention.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Extentions\\ValidationExtention.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T17:20:11.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CreateUserDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:50:38.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 9,
               "Title": "ResponseResult.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Implementations\\ResponseResult.cs",
               "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Implementations\\ResponseResult.cs",
@@ -880,55 +423,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ResponseValidationResult.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
+              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:04:23.804Z"
+              "WhenOpened": "2024-09-22T08:28:52.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IBusinessRegister.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\IBusinessRegister.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\IBusinessRegister.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\IBusinessRegister.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\IBusinessRegister.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
+              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:57:37.362Z"
+              "WhenOpened": "2024-09-22T08:20:08.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ResponseDataResult.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
-              "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
-              "RelativeToolTip": "FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:08:49.673Z"
+              "WhenOpened": "2024-09-26T16:24:23.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
-              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwEIAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T16:35:04.447Z"
+              "WhenOpened": "2024-09-26T16:35:08.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fs.UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Fs.UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAOkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T08:08:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Fs.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
+              "RelativeToolTip": "Fs.UI\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:22:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IResponseDataResult.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Interfaces\\IResponseDataResult.cs",
               "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Interfaces\\IResponseDataResult.cs",
@@ -940,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 11,
               "Title": "IResponseResult.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Interfaces\\IResponseResult.cs",
               "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Interfaces\\IResponseResult.cs",
@@ -952,7 +525,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 7,
+              "Title": "ResponseValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Wrappers\\Classes\\ResponseValidationResult.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:10:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\ProductViewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:30:22.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Wrappers\\Implementations\\ResponseDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:08:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Classes\\ResponseValidationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:04:23.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ResponseType.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Enums\\ResponseType.cs",
               "RelativeDocumentMoniker": "FS.CoreLayer\\Enums\\ResponseType.cs",
@@ -964,7 +585,391 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\AddProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:29:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Mappers\\MapProfile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:22:00.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UploadedFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\UploadedFileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:50:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddProductDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\ValidationRules\\AddProductDtoValidator.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:15:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Fs.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:13:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:00.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\CategoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:12:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:03:51.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Fs.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\appsettings.json",
+              "RelativeToolTip": "Fs.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T19:14:28.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Fs.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Fs.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:35:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterStatusEnam.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Enums\\RegisterStatusEnam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:33:09.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterStatus.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\RegisterStatus.cs",
+              "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\RegisterStatus.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\RegisterStatus.cs",
+              "RelativeToolTip": "Fs.Entity\\Accounts\\RegisterStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:57:29.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:43:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "FS.ExternalServices\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Services\\EmailService.cs",
+              "RelativeToolTip": "FS.ExternalServices\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:05:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SmtpSetting.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Models\\SmtpSetting.cs",
+              "RelativeDocumentMoniker": "FS.ExternalServices\\Models\\SmtpSetting.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Models\\SmtpSetting.cs",
+              "RelativeToolTip": "FS.ExternalServices\\Models\\SmtpSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:06:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FS.ExternalServices\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "FS.ExternalServices\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:04:10.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fs.UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:55:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:51:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FS.ExternalServices",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\FS.ExternalServices.csproj",
+              "RelativeDocumentMoniker": "FS.ExternalServices\\FS.ExternalServices.csproj",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.ExternalServices\\FS.ExternalServices.csproj",
+              "RelativeToolTip": "FS.ExternalServices\\FS.ExternalServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T08:02:20.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HtmlTemplateGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Helper\\HtmlTemplateGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:38:57.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fs.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fs.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:33:22.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fs.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fs.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T08:26:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FsContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
+              "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
+              "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Contexts\\FsContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:09:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fs.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fs.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:36:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:45:19.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HasHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HasHelper.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\HasHelper.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\HasHelper.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Helper\\HasHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:05:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConvertExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Extentions\\ConvertExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:11:43.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GeneratorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\GeneratorHelper.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Helper\\GeneratorHelper.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Helper\\GeneratorHelper.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Helper\\GeneratorHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:21:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ValidationExtention.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ValidationExtention.cs",
+              "RelativeDocumentMoniker": "FS.CoreLayer\\Extentions\\ValidationExtention.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\Extentions\\ValidationExtention.cs",
+              "RelativeToolTip": "FS.CoreLayer\\Extentions\\ValidationExtention.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:20:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\ValidationRules\\CreateUserDtoValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:50:38.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IBusinessRegister.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\IBusinessRegister.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\IBusinessRegister.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\IBusinessRegister.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\IBusinessRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:57:37.362Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 46,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Fs.BusinessLogicLayer\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:35:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Products\\Product.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Products\\Product.cs",
@@ -976,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "FS.CoreLayer.csproj",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\FS.CoreLayer\\FS.CoreLayer.csproj",
               "RelativeDocumentMoniker": "FS.CoreLayer\\FS.CoreLayer.csproj",
@@ -988,7 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "UserRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserRoleRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserRoleRepository.cs",
@@ -1000,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "UserDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserDetailRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserDetailRepository.cs",
@@ -1012,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\UserRepository.cs",
@@ -1024,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\RoleRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\RoleRepository.cs",
@@ -1036,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "RegisterStatusRepostiory.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\RegisterStatusRepostiory.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\RegisterStatusRepostiory.cs",
@@ -1048,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\CustomerRepository.cs",
@@ -1060,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "ProductOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\ProductOrderRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\ProductOrderRepository.cs",
@@ -1072,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\OrderRepository.cs",
@@ -1084,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\ProductRepository.cs",
@@ -1096,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\CategoryRepository.cs",
@@ -1108,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "IUserDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserDetailRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserDetailRepository.cs",
@@ -1120,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "IUserRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserRoleRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserRoleRepository.cs",
@@ -1132,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IUserRepository.cs",
@@ -1144,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IRoleRepository.cs",
@@ -1156,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "IRegisterStatuRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IRegisterStatuRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IRegisterStatuRepository.cs",
@@ -1168,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "Fs.UI.csproj",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Fs.UI.csproj",
               "RelativeDocumentMoniker": "Fs.UI\\Fs.UI.csproj",
@@ -1180,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\ICustomerRepository.cs",
@@ -1192,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IOrderRepository.cs",
@@ -1204,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "IProductOrderRepostiory.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IProductOrderRepostiory.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IProductOrderRepostiory.cs",
@@ -1216,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IProductRepository.cs",
@@ -1228,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "ProductOrder.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Products\\ProductOrder.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Products\\ProductOrder.cs",
@@ -1240,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\ICategoryRepository.cs",
@@ -1252,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "RegisterStatusConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\RegisterStatusConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\RegisterStatusConfig.cs",
@@ -1264,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "RoleConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\RoleConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\RoleConfig.cs",
@@ -1276,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\Role.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\Role.cs",
@@ -1288,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "UserRoleConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserRoleConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserRoleConfig.cs",
@@ -1300,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "UploadedFile.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Commons\\UploadedFile.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Commons\\UploadedFile.cs",
@@ -1312,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "ProductConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\ProductConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\ProductConfig.cs",
@@ -1324,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Products\\Category.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Products\\Category.cs",
@@ -1336,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "BaseEntityConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\BaseEntityConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\BaseEntityConfig.cs",
@@ -1348,7 +1353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "OrderConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\OrderConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\OrderConfig.cs",
@@ -1360,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Products\\Order.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Products\\Order.cs",
@@ -1372,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Commons\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Commons\\BaseEntity.cs",
@@ -1384,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "EditedBaseEntityConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\EditedBaseEntityConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\EditedBaseEntityConfig.cs",
@@ -1396,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "UploadFiledConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\UploadFiledConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Commons\\UploadFiledConfig.cs",
@@ -1408,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "EditedBaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Commons\\EditedBaseEntity.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Commons\\EditedBaseEntity.cs",
@@ -1420,7 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "20240922081150_mig99.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\Migrations\\20240922081150_mig99.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\Migrations\\20240922081150_mig99.cs",
@@ -1432,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "UserDetailConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserDetailConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserDetailConfig.cs",
@@ -1444,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "UserConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Accounts\\UserConfig.cs",
@@ -1456,7 +1461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "CategoryConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\CategoryConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\CategoryConfig.cs",
@@ -1468,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "ProductOrderConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\ProductOrderConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\ProductOrderConfig.cs",
@@ -1480,7 +1485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "CustomerConfig.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\CustomerConfig.cs",
               "RelativeDocumentMoniker": "Fs.DataAccessLayer\\EntityFrameworkCore\\Configurations\\Products\\CustomerConfig.cs",
@@ -1492,7 +1497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\UserRole.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\UserRole.cs",
@@ -1504,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "UserDetail.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\UserDetail.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\UserDetail.cs",
@@ -1516,7 +1521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Accounts\\User.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Accounts\\User.cs",
@@ -1528,7 +1533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.Entity\\Products\\Customer.cs",
               "RelativeDocumentMoniker": "Fs.Entity\\Products\\Customer.cs",

@@ -17,3 +17,4 @@ C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.BusinessLogicLayer\bin\Debu
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.BusinessLogicLayer\bin\Debug\net8.0\Fs.Entity.pdb
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.BusinessLogicLayer\obj\Debug\net8.0\Fs.BusinessLogicLayer.csproj.AssemblyReference.cache
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.BusinessLogicLayer\obj\Debug\net8.0\Fs.Busin.3023328B.Up2Date
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.BusinessLogicLayer\obj\Debug\net8.0\Fs.BusinessLogicLayer.sourcelink.json

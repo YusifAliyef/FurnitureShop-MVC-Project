@@ -148,3 +148,4 @@ C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.UI\bin\Debug\net8.0\FS.Core
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.UI\bin\Debug\net8.0\FS.ExternalServices.dll
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.UI\bin\Debug\net8.0\FS.ExternalServices.pdb
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.UI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.UI\obj\Debug\net8.0\Fs.UI.sourcelink.json

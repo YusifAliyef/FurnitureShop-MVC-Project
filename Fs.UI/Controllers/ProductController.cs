@@ -77,5 +77,26 @@ namespace Fs.UI.Controllers
             }
             return Json(new { success = true});
         }
+
+       
+
+        [HttpGet]
+        public async Task<IActionResult> GetProduct()
+        {
+            var result = await _productService.GetProductsAsync();
+            return Json(result.Data);
+        }
+        [HttpGet]
+        public async Task<IActionResult> RemoveProduct(int id)
+        {
+            var result = await _productService.RemoveAsync(id);
+            if (result.ResponseType == FS.CoreLayer.Enums.ResponseType.NotFound)
+            {
+                return Json(new { success = false, message = result.Message });
+            }
+            return Json(new { success = true, message = "Furniture was deleted successfully" });
+
+
+        }
     }
 }

@@ -10,3 +10,4 @@ C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\refint\FS.CoreLayer.dll
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.pdb
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\ref\FS.CoreLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\FS.CoreLayer\obj\Debug\net8.0\FS.CoreLayer.sourcelink.json
