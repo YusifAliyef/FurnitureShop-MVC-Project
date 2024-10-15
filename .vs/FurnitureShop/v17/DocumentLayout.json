@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|c:\\users\\lenova\\onedrive\\desktop\\fs\\furnitureshop\\fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25339C2D-58D9-4950-A2E2-A1D90ECCDB50}|Fs.UI\\Fs.UI.csproj|solutionrelative:fs.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -390,7 +390,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -406,8 +406,7 @@
               "RelativeToolTip": "Fs.UI\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAgwFsAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T15:22:20.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:22:20.339Z"
             },
             {
               "$type": "Document",
@@ -431,8 +430,7 @@
               "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Concrete\\GenericRepository.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAuwC0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:28:52.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T08:28:52.409Z"
             },
             {
               "$type": "Document",
@@ -444,8 +442,7 @@
               "RelativeToolTip": "Fs.DataAccessLayer\\EntityFrameworkCore\\Abstract\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:20:08.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T08:20:08.575Z"
             },
             {
               "$type": "Document",
@@ -457,8 +454,7 @@
               "RelativeToolTip": "Fs.BusinessLogicLayer\\Abstract\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:24:23.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T16:24:23.349Z"
             },
             {
               "$type": "Document",
@@ -470,31 +466,30 @@
               "RelativeToolTip": "Fs.BusinessLogicLayer\\Concrete\\ProductService.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAYwEIAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:35:08.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T16:35:08.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Fs.UI\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Fs.UI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAAAOkAAAAAAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAOkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-12T08:08:43.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
               "RelativeDocumentMoniker": "Fs.UI\\Program.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\Program.cs",
               "RelativeToolTip": "Fs.UI\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAA6AAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T19:22:33.419Z",
               "EditorCaption": ""
