@@ -84,9 +84,9 @@ namespace Fs.DataAccessLayer.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 9, 22, 8, 11, 50, 173, DateTimeKind.Utc).AddTicks(1330),
+                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 775, DateTimeKind.Utc).AddTicks(2892),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 9, 22, 8, 11, 50, 173, DateTimeKind.Utc).AddTicks(1333),
+                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 775, DateTimeKind.Utc).AddTicks(2898),
                             UpdatedId = 1,
                             Value = "Admin"
                         });
@@ -289,36 +289,36 @@ namespace Fs.DataAccessLayer.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1137),
+                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(177),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1140),
+                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(181),
                             UpdatedId = 1,
                             Value = "Kitchen"
                         },
                         new
                         {
                             Id = 2,
-                            CreateDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1143),
+                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(189),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1145),
+                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(191),
                             UpdatedId = 1,
                             Value = "Bedroom"
                         },
                         new
                         {
                             Id = 3,
-                            CreateDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1147),
+                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(193),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1148),
+                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(194),
                             UpdatedId = 1,
                             Value = "Guest room"
                         },
                         new
                         {
                             Id = 4,
-                            CreateDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1151),
+                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(197),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 9, 22, 8, 11, 50, 175, DateTimeKind.Utc).AddTicks(1152),
+                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(198),
                             UpdatedId = 1,
                             Value = "Bathroom"
                         });
@@ -452,6 +452,12 @@ namespace Fs.DataAccessLayer.Migrations
                     b.Property<int>("OrderId")
                         .HasColumnType("int");
 
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Id")
+                        .HasColumnType("int");
+
                     b.HasKey("ProductId", "OrderId");
 
                     b.HasIndex("OrderId");
@@ -499,7 +505,8 @@ namespace Fs.DataAccessLayer.Migrations
                 {
                     b.HasOne("Fs.Entity.Products.Product", null)
                         .WithMany("UploadedFiles")
-                        .HasForeignKey("ProductId");
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("Fs.Entity.Accounts.User", null)
                         .WithMany("UploadedFiles")

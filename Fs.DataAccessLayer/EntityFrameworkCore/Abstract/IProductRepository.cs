@@ -9,5 +9,7 @@ namespace Fs.DataAccessLayer.EntityFrameworkCore.Abstract
 {
     public interface IProductRepository:IGenericRepository<Product>
     {
+        Task<IEnumerable<Product>> GetProductWithDetailAsync();
+    
     }
 }

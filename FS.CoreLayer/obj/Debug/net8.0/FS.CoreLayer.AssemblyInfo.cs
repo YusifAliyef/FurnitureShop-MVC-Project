@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FS.CoreLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9124cccb310e909b8274f94b5083a938b7b7fbbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c042feb09ee1ed58449ab5735f2f472f53244658")]
 [assembly: System.Reflection.AssemblyProductAttribute("FS.CoreLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FS.CoreLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

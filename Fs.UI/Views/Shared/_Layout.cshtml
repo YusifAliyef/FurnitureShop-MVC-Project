@@ -3,44 +3,179 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Fs.UI</title>
+    <title>@ViewData["Title"] - Furniture Shop</title>
+
+    <!-- Bootstrap Css -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Fs.UI.styles.css" asp-append-version="true" />
+
+    <!-- Custom styles for the navbar -->
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f3f3f3;
+        }
+
+        .navbar-custom {
+            background-color: #fef7f0; /* Warm beige background */
+            border-bottom: 2px solid #d1b294; /* Subtle wooden border */
+            padding: 15px 30px;
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.6rem;
+            color: #7c4a33; /* Rich brown color */
+            font-family: 'Georgia', serif;
+        }
+
+            .navbar-brand:hover {
+                color: #a76d47; /* Lighter brown on hover */
+            }
+
+        .nav-link {
+            color: #7c4a33; /* Rich brown */
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-right: 20px;
+        }
+
+            .nav-link:hover {
+                color: #a76d47; /* Lighter brown on hover */
+            }
+
+        .search-box {
+            display: flex;
+            align-items: center;
+            background-color: #fff4e0; /* Light beige */
+            border-radius: 8px;
+            padding: 0.4rem 1rem;
+            border: 1px solid #d1b294;
+        }
+
+            .search-box input {
+                border: none;
+                background: none;
+                outline: none;
+                padding: 0.2rem 0.5rem;
+                width: 250px;
+                color: #7c4a33;
+            }
+
+        .search-icon {
+            color: #a76d47; /* Light brown */
+            cursor: pointer;
+        }
+
+        .icon-group {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+            .icon-group i {
+                font-size: 1.5rem;
+                color: #7c4a33; /* Rich brown */
+            }
+
+                .icon-group i:hover {
+                    color: #a76d47; /* Lighter brown on hover */
+                }
+
+        .navbar-profile {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .profile-name {
+            font-weight: 600;
+            color: #7c4a33; /* Rich brown */
+        }
+
+            .profile-name:hover {
+                color: #a76d47; /* Lighter brown on hover */
+            }
+
+        .navbar-profile img {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid #d1b294;
+        }
+
+        .dropdown-toggle::after {
+            display: none; /* Remove the default dropdown arrow */
+        }
+
+        .category-dropdown {
+            background-color: #fff4e0; /* Light beige */
+            border: 1px solid #d1b294;
+            border-radius: 8px;
+        }
+
+            .category-dropdown a {
+                color: #7c4a33; /* Rich brown */
+                padding: 10px 20px;
+                display: block;
+            }
+
+                .category-dropdown a:hover {
+                    background-color: #f7e0c9; /* Soft beige on hover */
+                }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-lg navbar-custom fixed-top">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Fs.UI</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+                <a class="navbar-brand" href="#">FurnitureShop</a>
+
+                <!-- Category Dropdown -->
+                <div class="dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="categoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Online Shopping
+                    </a>
+                    <ul class="dropdown-menu category-dropdown" aria-labelledby="categoryDropdown">
+                        <li><a class="dropdown-item" href="#">Living Room</a></li>
+                        <li><a class="dropdown-item" href="#">Bedroom</a></li>
+                        <li><a class="dropdown-item" href="#">Office</a></li>
+                        <li><a class="dropdown-item" href="#">Dining</a></li>
+                        <li><a class="dropdown-item" href="#">Outdoor</a></li>
                     </ul>
+                </div>
+
+                <!-- Search Box -->
+                <div class="search-box ms-3">
+                    <input type="text" placeholder="Search for furniture...">
+                    <i class="bi bi-search search-icon"></i>
+                </div>
+
+                <!-- Navbar Icons and Profile -->
+                <div class="navbar-collapse collapse justify-content-end">
+                    <div class="icon-group">
+                        <i class="bi bi-heart"></i> <!-- Wishlist -->
+                        <i class="bi bi-cart"></i> <!-- Shopping Cart -->
+                        <i class="bi bi-person"></i> <!-- Profile -->
+                    </div>
+
+                    <!-- Profile -->
+                    <div class="navbar-profile ms-4">
+                        <img src="https://via.placeholder.com/40" alt="Profile Image">
+                        <span class="profile-name">Yusif Aliyev</span>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
+
+    <div class="container mt-5">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - Fs.UI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+    <!-- Bootstrap Js -->
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

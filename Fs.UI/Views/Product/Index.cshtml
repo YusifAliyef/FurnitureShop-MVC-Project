@@ -14,6 +14,7 @@
     <link href="~/AdminTemplate/css/icons.min.css" rel="stylesheet" type="text/css" />
     <!-- App Css-->
     <link href="~/AdminTemplate/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
+   <link href="~/AdminTemplate/libs/sweetalert2/sweetalert2.min.css" rel="stylesheet"/>
 </head>
 
 <div class="container my-4 justify-content-center mt-3">
@@ -37,6 +38,9 @@
                         <th>Category</th>
                         <th>In Stock</th>
                         <th>Image</th>
+                        <th>Edited</th>
+                        <th>Deleted</th>
+
                     </tr>
                 </thead>
                 <tbody>
@@ -69,6 +73,7 @@
                         <input class="form-control" type="number" value="0" id="price" asp-for="Price" placeholder="Enter product price">
                         <span class="text-danger" asp-validation-for="Price"></span>
                     </div>
+
 
                     <div class="col-md-6">
                         <label for="categoryId" class="form-label">Categories</label>
@@ -111,6 +116,12 @@
 <script src="~/AdminTemplate/libs/feather-icons/feather.min.js"></script>
 <script src="~/AdminTemplate/libs/pace-js/pace.min.js"></script>
 @section scripts {
+    <script src="~/AdminTemplate/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/AdminTemplate/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/AdminTemplate/libs/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/AdminTemplate/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/AdminTemplate/js/pages/datatable-pages.init.js"></script>
+    <script src="~/admintemplate/libs/sweetalert2/sweetalert2.min.js"></script>
     <script>
         $("#submitButton").click(function () {
             var formData = new FormData();
@@ -118,26 +129,34 @@
             formData.append("Price", $("#price").val());
             formData.append("CategoryId", $("#categoryId").val());
 
-            // Get checkbox value correctly (true/false)
             var inStockValue = $("#inStock").is(":checked") ? true : false;
             formData.append("InStock", inStockValue);
 
-            // Get image files
             var files = $("#imageFiles")[0].files;
             for (var i = 0; i < files.length; i++) {
                 formData.append("imagesFile", files[i]);
             }
 
             $.ajax({
-                url: '/Product/AddProduct', // Correct the URL to the actual action method
+                url: '/Product/AddProduct',
                 type: 'POST',
                 data: formData,
                 contentType: false,
                 processData: false,
                 success: function (response) {
                     if (response.success) {
-                        $("#productFormModal").modal('hide');
-                        // Optionally, refresh the product list or show a success message
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Product added successfully!',
+                            showConfirmButton: false,
+                            timer: 1500
+                        });
+
+                        setTimeout(function (){
+                            $("#productFormModal").modal('hide');
+                        window.location.reload();
+
+                    }, 1500);
                     } else {
                         $("span.text-danger").text("");
                         $.each(response.errors, function (key, messages) {
@@ -190,48 +209,103 @@
 
             // Display SweetAlert confirmation dialog
             Swal.fire({
-                title: "Are you sure?",
-                text: "You won't be able to revert this!",
-                icon: "warning",
+                title: "Do you want to remove the product?",
+                showDenyButton: true,
                 showCancelButton: true,
-                confirmButtonColor: "#3085d6",
-                cancelButtonColor: "#d33",
-                confirmButtonText: "Yes, delete it!"
+                confirmButtonText: "Delete",
+                denyButtonText: "Don't Delete",
             }).then((result) => {
-                if (result.isConfirmed) {  // Corrected casing
+                if (result.isConfirmed) {
                     $.ajax({
+                        type: "Get",
                         url: `/Product/RemoveProduct/${id}`,
-                        type: 'GET',
                         dataType: "json",
                         success: function (response) {
-                            if (response.success) {
-                                Swal.fire({
-                                    title: "Deleted!",
-                                    text: response.message,
-                                    icon: "success"
-                                }).then(() => {
-                                    window.location.reload(); // Refresh the page to update the table
-                                });
-                            } else {
-                                Swal.fire({
-                                    icon: "error",
-                                    title: "Oops...",
-                                    text: response.message
-                                });
-                            }
-                        },
-                        error: function (xhr, status, error) {
-                            Swal.fire({
-                                icon: "error",
-                                title: "An error occurred!",
-                                text: `Status: ${status}, Error: ${error}`
-                            });
+                            window.location.reload();
                         }
-                    });
+
+                    })
+                } else if (result.isDenied) {
+                    Swal.fire("Changes are not saved", "", "info");
+                }
+            });
+        });
+                
+                           
+
+        $("#product-datatable").on("click", ".edit-product", function () {
+            let id = $(this).data("id");
+
+            // AJAX çağrısı ile mevcut ürün verilerini alalım
+            $.ajax({
+                url: `/Product/GetProductById/${id}`,
+                type: 'GET',
+                dataType: 'json',
+                success: function (response) {
+                    if (response.success) {
+                        // Ürün verilerini modal içerisindeki inputlara dolduralım
+                        $("#productId").val(response.data.id);
+                        $("#productName").val(response.data.productName);
+                        $("#price").val(response.data.price);
+                        $("#categoryId").val(response.data.categoryId);
+                        $("#inStock").prop("checked", response.data.inStock);
+
+                        // Modal'ı açalım
+                        $("#productFormModal").modal('show');
+                    } else {
+                        Swal.fire({
+                            icon: "error",
+                            title: "Error",
+                            text: response.message
+                        });
+                    }
                 }
             });
         });
 
-    </script>
+        // Form submit işlemi için AJAX ile update (edit) yapalım
+        $("#submitButton").click(function () {
+            var formData = new FormData();
+            formData.append("Id", $("#productId").val());  // Güncellenmesi gereken ürün ID'sini ekleyin
+            formData.append("ProductName", $("#productName").val());
+            formData.append("Price", $("#price").val());
+            formData.append("CategoryId", $("#categoryId").val());
 
- }
+            var inStockValue = $("#inStock").is(":checked") ? true : false;
+            formData.append("InStock", inStockValue);
+
+            var files = $("#imageFiles")[0].files;
+            for (var i = 0; i < files.length; i++) {
+                formData.append("imagesFile", files[i]);
+            }
+
+            $.ajax({
+                url: '/Product/EditProduct',  
+                type: 'POST',
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function (response) {
+                    if (response.success) {
+                        $("#productFormModal").modal('hide');
+                        Swal.fire({
+                            title: "Updated!",
+                            text: response.message,
+                            icon: "success"
+                        }).then(() => {
+                            window.location.reload();  
+                        });
+                    } else {
+                        $("span.text-danger").text("");
+                        $.each(response.errors, function (key, messages) {
+                            var field = $("[asp-for='" + key + "']");
+                            field.next(".text-danger").text(messages[0]);
+                        });
+                    }
+                }
+            });
+        });
+
+
+    </script>
+}

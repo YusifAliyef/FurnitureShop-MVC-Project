@@ -14,5 +14,8 @@ namespace Fs.BusinessLogicLayer.Abstract
         Task<IResponseDataResult<IEnumerable<ProductViewDto>>> GetProductsAsync();
         Task<IResponseResult> AddAsync(AddProductDto productDto);
         Task<IResponseDataResult<bool>> RemoveAsync(int id);
+
+        Task<IResponseResult> UpdateAsync(UpdateProductDto productDto);
+        
     }
 }

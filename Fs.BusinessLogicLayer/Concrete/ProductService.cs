@@ -50,7 +50,7 @@ namespace Fs.BusinessLogicLayer.Concrete
 
         public async Task<IResponseDataResult<IEnumerable<ProductViewDto>>> GetProductsAsync()
         {
-            var product = await _productRepository.GetAllAsync();
+            var product = await _productRepository.GetProductWithDetailAsync();
             var productView = _mapper.Map<IEnumerable<ProductViewDto>>(product);
             return new ResponseDataResult<IEnumerable<ProductViewDto>>(productView);
         }
@@ -62,9 +62,39 @@ namespace Fs.BusinessLogicLayer.Concrete
             {
                 return new ResponseDataResult<bool>(ResponseType.NotFound, "Product not found to delete");
             }
+
             _productRepository.Remove(product);
-            await _productRepository.SaveChangesAsync();
-            return new ResponseDataResult<bool>(ResponseType.SuccessResult, "Successfully deleted!");
+            try
+            {
+                await _productRepository.SaveChangesAsync();
+            }
+            catch(Exception ex)
+            {
+                var e = ex;
+            }
+            
+
+            
+            return new ResponseDataResult<bool>(ResponseType.SuccessResult, "Succesfully deleted!");
+        }
+
+        public async Task<IResponseResult> UpdateAsync(UpdateProductDto productDto)
+        {
+            var product = await _productRepository.GetByIdAsync(productDto.Id);
+            if (product == null)
+            {
+                return new ResponseResult(ResponseType.ValidationError, "Product not found");
+            }
+
+            product.ProductName= productDto.ProductName;
+            product.Price= productDto.Price;
+            product.Instock=productDto.InStock;
+            product.CategoryId= productDto.CategoryId;
+
+             _productRepository.Update(product);
+
+            return new ResponseResult(ResponseType.SuccessResult, "Product updated successfully");
+
         }
     }
 }

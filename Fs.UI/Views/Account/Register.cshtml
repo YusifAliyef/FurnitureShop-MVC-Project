@@ -82,7 +82,7 @@
                     data: JSON.stringify(model),
                     success: function (response) {
                         if (response.success) {
-                            console.log(response)
+                            window.location.href = `/product/index`
                         } else {
                             $("div.text-danger").text("");
                             $.each(response.errors, function (key, messages) {

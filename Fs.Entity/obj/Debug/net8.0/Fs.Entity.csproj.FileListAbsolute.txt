@@ -9,3 +9,4 @@ C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\refint\Fs.Entity.dll
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.pdb
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\ref\Fs.Entity.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.Entity\obj\Debug\net8.0\Fs.Entity.sourcelink.json

@@ -19,6 +19,7 @@ namespace Fs.UI.Controllers
             _webHostEnvironment = webHostEnvironment;
         }
 
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             var categories= await _categoryService.GetCategoryDictionaryAsync();
@@ -78,7 +79,6 @@ namespace Fs.UI.Controllers
             return Json(new { success = true});
         }
 
-       
 
         [HttpGet]
         public async Task<IActionResult> GetProduct()
@@ -94,9 +94,21 @@ namespace Fs.UI.Controllers
             {
                 return Json(new { success = false, message = result.Message });
             }
-            return Json(new { success = true, message = "Furniture was deleted successfully" });
+            return Json(new { success = true, message = "Book was deleted successfully" });
 
 
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(UpdateProductDto productDto)
+        {
+            var result = await _productService.UpdateAsync(productDto);
+            if (result.ResponseType == FS.CoreLayer.Enums.ResponseType.SuccessResult)
+            {
+                return RedirectToAction("Index");
+            }
+
+            ModelState.AddModelError("", result.Message);
+            return View(productDto);
         }
     }
 }

@@ -15,3 +15,4 @@ C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\n
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.pdb
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.genruntimeconfig.cache
 C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\ref\Fs.DataAccessLayer.dll
+C:\Users\lenova\OneDrive\Desktop\FS\FurnitureShop\Fs.DataAccessLayer\obj\Debug\net8.0\Fs.DataAccessLayer.sourcelink.json

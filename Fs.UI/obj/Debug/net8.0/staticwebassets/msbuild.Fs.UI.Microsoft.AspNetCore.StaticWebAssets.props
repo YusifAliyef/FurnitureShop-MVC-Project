@@ -4384,6 +4384,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\3910f766-93f3-49fc-8386-ca0005f42387_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\436d1adf-4539-4d48-b0aa-067021408dea_indir.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/436d1adf-4539-4d48-b0aa-067021408dea_indir.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\436d1adf-4539-4d48-b0aa-067021408dea_indir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\45195799-6493-4deb-85f5-6fec4070e25b_indir.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>Fs.UI</SourceId>
@@ -4512,6 +4528,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\5ba8a114-7f38-4be9-b776-a0474f8f2b38_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\67331fbf-fbdf-44c8-9db6-e6fba4e1cd9a_Ekran şəkli 2024-04-16 194855.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/67331fbf-fbdf-44c8-9db6-e6fba4e1cd9a_Ekran şəkli 2024-04-16 194855.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\67331fbf-fbdf-44c8-9db6-e6fba4e1cd9a_Ekran şəkli 2024-04-16 194855.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\69edeb25-27ae-4ad5-9ebd-a52d05d7bde4_BEAUTYPEA.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/69edeb25-27ae-4ad5-9ebd-a52d05d7bde4_BEAUTYPEA.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\69edeb25-27ae-4ad5-9ebd-a52d05d7bde4_BEAUTYPEA.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\7e441aee-33b0-44e5-8859-0f70888bf809_indir.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>Fs.UI</SourceId>
@@ -4576,6 +4624,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a7663f78-347b-4a11-90f5-90d02de92ff7_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a8c11538-5ca9-4a30-8bd5-78def3f175fb_indir.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/a8c11538-5ca9-4a30-8bd5-78def3f175fb_indir.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\a8c11538-5ca9-4a30-8bd5-78def3f175fb_indir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\abd4ad7f-0bb9-44d3-af2a-a666e9e7c3a2_indir.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>Fs.UI</SourceId>
@@ -4624,6 +4688,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\b8c2c51c-ebcb-4e22-8454-8e15a4a20cf1_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ba9e04d2-ae47-49c0-980c-7e9f37224b7b_Ekran şəkli 2024-04-16 194855.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/ba9e04d2-ae47-49c0-980c-7e9f37224b7b_Ekran şəkli 2024-04-16 194855.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ba9e04d2-ae47-49c0-980c-7e9f37224b7b_Ekran şəkli 2024-04-16 194855.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c6c22493-83c5-440b-ade9-128a98f49385_indir.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>Fs.UI</SourceId>
@@ -4639,6 +4719,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c6c22493-83c5-440b-ade9-128a98f49385_indir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ca1aa474-db2b-4d84-861b-bb0745cbca05_indir.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/ca1aa474-db2b-4d84-861b-bb0745cbca05_indir.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ca1aa474-db2b-4d84-861b-bb0745cbca05_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cace60c9-644e-473b-8640-db6d09d022c6_indir.jpeg))">
       <SourceType>Package</SourceType>
@@ -4656,6 +4752,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cace60c9-644e-473b-8640-db6d09d022c6_indir.jpeg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cbc9638e-453f-46ce-b660-ca5afff2861b_Ekran şəkli 2024-04-16 194855.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/cbc9638e-453f-46ce-b660-ca5afff2861b_Ekran şəkli 2024-04-16 194855.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\cbc9638e-453f-46ce-b660-ca5afff2861b_Ekran şəkli 2024-04-16 194855.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d4e96e3f-39c0-4ec6-a788-ad7326bfffa7_Ekran şəkli 2024-04-16 194855.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/d4e96e3f-39c0-4ec6-a788-ad7326bfffa7_Ekran şəkli 2024-04-16 194855.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\d4e96e3f-39c0-4ec6-a788-ad7326bfffa7_Ekran şəkli 2024-04-16 194855.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e5d41dd5-1f44-486a-a799-c16fc89445dc_indir.jpeg))">
       <SourceType>Package</SourceType>
       <SourceId>Fs.UI</SourceId>
@@ -4671,6 +4799,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e5d41dd5-1f44-486a-a799-c16fc89445dc_indir.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ee3fb7ed-0427-4278-8d73-919bcab52de9_Ekran şəkli 2024-04-16 194855.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Fs.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Fs.UI</BasePath>
+      <RelativePath>uploads/ee3fb7ed-0427-4278-8d73-919bcab52de9_Ekran şəkli 2024-04-16 194855.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ee3fb7ed-0427-4278-8d73-919bcab52de9_Ekran şəkli 2024-04-16 194855.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\f3bb15b1-ad2b-405e-9264-ab41d283e9a5_indir.jpeg))">
       <SourceType>Package</SourceType>
