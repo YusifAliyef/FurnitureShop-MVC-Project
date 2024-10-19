@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nMkZn1MYSZiGPAQDIpliqh09z5khsY8cX6i9GOJcFg=",
+  "Hash": "rQpenxsmMbg8Wr70k+/vfscS4+uPr/Zq1mRBafianPk=",
   "Source": "Fs.UI",
   "BasePath": "_content/Fs.UI",
   "Mode": "Default",
@@ -5468,6 +5468,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\7e441aee-33b0-44e5-8859-0f70888bf809_indir.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\wwwroot\\uploads\\8072b6db-3708-4520-9f48-a1a28ab93a29_indir.jpeg",
+      "SourceId": "Fs.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\wwwroot\\",
+      "BasePath": "_content/Fs.UI",
+      "RelativePath": "uploads/8072b6db-3708-4520-9f48-a1a28ab93a29_indir.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8072b6db-3708-4520-9f48-a1a28ab93a29_indir.jpeg"
     },
     {
       "Identity": "C:\\Users\\lenova\\OneDrive\\Desktop\\FS\\FurnitureShop\\Fs.UI\\wwwroot\\uploads\\8f0be48d-4a7c-4441-9a19-f6a630144369_indir.jpeg",

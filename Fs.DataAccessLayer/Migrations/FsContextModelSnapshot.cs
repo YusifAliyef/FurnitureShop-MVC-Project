@@ -84,9 +84,9 @@ namespace Fs.DataAccessLayer.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 775, DateTimeKind.Utc).AddTicks(2892),
+                            CreateDate = new DateTime(2024, 10, 19, 4, 47, 48, 401, DateTimeKind.Utc).AddTicks(3114),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 775, DateTimeKind.Utc).AddTicks(2898),
+                            UpdatedDate = new DateTime(2024, 10, 19, 4, 47, 48, 401, DateTimeKind.Utc).AddTicks(3116),
                             UpdatedId = 1,
                             Value = "Admin"
                         });
@@ -208,8 +208,8 @@ namespace Fs.DataAccessLayer.Migrations
 
                     b.Property<string>("ContentType")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<DateTime>("CreateDate")
                         .HasColumnType("datetime2")
@@ -221,16 +221,16 @@ namespace Fs.DataAccessLayer.Migrations
 
                     b.Property<string>("FileName")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<int?>("ProductId")
                         .HasColumnType("int");
 
                     b.Property<string>("RelativePath")
                         .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("nvarchar(200)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("datetime2")
@@ -289,36 +289,36 @@ namespace Fs.DataAccessLayer.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(177),
+                            CreateDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8774),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(181),
+                            UpdatedDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8775),
                             UpdatedId = 1,
                             Value = "Kitchen"
                         },
                         new
                         {
                             Id = 2,
-                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(189),
+                            CreateDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8779),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(191),
+                            UpdatedDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8780),
                             UpdatedId = 1,
                             Value = "Bedroom"
                         },
                         new
                         {
                             Id = 3,
-                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(193),
+                            CreateDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8782),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(194),
+                            UpdatedDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8783),
                             UpdatedId = 1,
                             Value = "Guest room"
                         },
                         new
                         {
                             Id = 4,
-                            CreateDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(197),
+                            CreateDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8785),
                             CreatedId = 1,
-                            UpdatedDate = new DateTime(2024, 10, 17, 17, 35, 54, 779, DateTimeKind.Utc).AddTicks(198),
+                            UpdatedDate = new DateTime(2024, 10, 19, 4, 47, 48, 402, DateTimeKind.Utc).AddTicks(8786),
                             UpdatedId = 1,
                             Value = "Bathroom"
                         });
